@@ -1,7 +1,7 @@
 # Coffee-Shop-Sales-Analysis
 
 # Key Insights:
-- Sales Parameters: Displayed the Total Sales, TOtal Orders and Toyal Quantity sold (Dashboard with Monthly Filter).
+- Sales Parameters: Displayed the Total Sales, Total Orders and Toyal Quantity sold (Dashboard with Monthly Filter).
 - Sales Trends : Analyze sales trends based on days and time to understand peak hours as well high number of selling day.
 - It also measured the sales in terms of weekdays and weekends.
 - Product Categories: Compare the performance between coffee, tea or drinking chocolate and also with ratings of each producturette.
